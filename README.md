@@ -1,4 +1,4 @@
-# Advanced-Data-Structures-in-Java-Course
+# Advanced Data Structures In Java Final Project
 
 This is the final project for the Advanced Data Structures in Java course in Cousera: https://www.coursera.org/learn/advanced-data-structures
 
@@ -14,12 +14,13 @@ The following algorithms to find routes between intersections across cities were
 - A* Arrival Time
 
 
-Example of map with graph data
+
+## Example of map with graph data
 
 ![alt tag](https://raw.githubusercontent.com/alapisco/Advanced_Data_Structures_In_Java_Course/images/a1.png)
 
 
-Example of a route  using BFS
+## Example of a route  using BFS
 
 ![alt tag](https://raw.githubusercontent.com/alapisco/Advanced_Data_Structures_In_Java_Course/images/a2.png)
 
